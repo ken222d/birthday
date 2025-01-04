@@ -1,5 +1,5 @@
 #!/bin/bash
-# SPDX-FileCopyrightText: 2024 Kenta ishizeki<a.w.g.d0201@icloud.com>
+# SPDX-FileCopyrightText: 2025 Kenta ishizeki<a.w.g.d0201@icloud.com>
 # SPDX-License-Identifier: BSD-3-Clause
 
 dir=~
