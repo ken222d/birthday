@@ -16,7 +16,7 @@ timeout 14 ros2 run birthday countdown &
 sleep 3
 
 # トピックを10秒間監視してログに出力
-timeout 11 ros2 topic echo /birthday_countdown > /tmp/birthday.log
+timeout 11 ros2 topic echo /countdown_topic > /tmp/birthday.log
 
 # 結果をフィルタリング
 grep '誕生日まで残り:' /tmp/birthday.log
