@@ -15,5 +15,5 @@ sleep 3
 
 timeout 11 ros2 topic echo /countdown_topic > /tmp/birthday.log
 
-grep '誕生日まで残りa' /tmp/birthday.log
+grep '誕生日まで残り:' /tmp/birthday.log
 
