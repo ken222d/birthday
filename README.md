@@ -66,6 +66,9 @@ countdown.pyファイル内の18~26行目にある誕生日の設定の部分を
 ## テスト環境
 - Ubuntu 22.04.5 LTS
 
+## 参考資料
+- [Pythonで日付操作を完全マスター！！](https://qiita.com/papi_tokei/items/43b1d15a6694f576486c)
+- [Pythonのdivmodで割り算の商と余りを同時に取得 - nkmk note](https://note.nkmk.me/python-divmod-quotient-remainder/)
 ## ライセンスと著作権
 
 - このソフトウェアパッケージは, 3条項BSDライセンスの下, 再頒布および使用が許可されます.
