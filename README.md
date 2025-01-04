@@ -62,7 +62,7 @@ countdown.pyファイル内の18~26行目にある誕生日の設定の部分を
 - Ubuntu
 - ROS 2 (Foxy以降)
 - Python
-
+  - テスト済みバージョン: 3.7 ~ 3.10
 ## テスト環境
 - Ubuntu 22.04.5 LTS
 
