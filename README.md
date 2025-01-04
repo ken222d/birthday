@@ -36,6 +36,7 @@ $ ros2 run birthday countdown
 実行後は何も表示しません. 
 別の端末で以下のコマンドを実行します. 
 ```
+$ source ~/.bashrc
 $ ros2 topic echo /countdown_topic
 ```
 
