@@ -18,9 +18,9 @@ class BirthdayCountdown(Node):
         # 誕生日の設定: 年、月、日、時、分、秒
         self.birthday = datetime(
             month=1, 
-            day=4, 
+            day=5, 
             year=datetime.now().year,
-            hour=18,
+            hour=20,
             minute=30,
             second=0
         )
