@@ -17,11 +17,11 @@ class BirthdayCountdown(Node):
 
         # 誕生日の設定: 年、月、日、時、分、秒
         self.birthday = datetime(
-            month=1, 
-            day=5, 
+            month=2, 
+            day=1, 
             year=datetime.now().year,
-            hour=20,
-            minute=30,
+            hour=0,
+            minute=0,
             second=0
         )
         self.create_timer(1.0, self.cb)
